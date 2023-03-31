@@ -1,3 +1,9 @@
+# Quote-Generator
+
+
+https://user-images.githubusercontent.com/79044490/229070942-95996bb5-6c6e-4adc-91e8-f4ca1725b440.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
